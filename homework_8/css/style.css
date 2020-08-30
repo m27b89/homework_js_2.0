@@ -1,0 +1,36 @@
+* {
+  padding: 0;
+  margin: 0;
+  box-sizing: border-box;
+}
+body {
+  margin: 0;
+  padding: 0;
+}
+.title h2 {
+  width: 80%;
+  margin: 20px auto;
+  text-align: center;
+}
+.block {
+  margin: 30px;
+  text-align: center;
+}
+.btn {
+  padding: 5px 10px;
+  font-size: 14px;
+  margin: 10px;
+}
+.answers {
+  width: 80%;
+  margin: 20px auto;
+  text-align: center;
+}
+.content {
+  text-align: start;
+  margin: 20px;
+  background-color: bisque;
+  font-size: 15px;
+  padding: 10px;
+  word-wrap: wrap;
+}

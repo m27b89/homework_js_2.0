@@ -1,0 +1,15 @@
+* {
+  margin: 0;
+  padding: 0;
+}
+
+.block-title {
+  width: 80%;
+  margin: 20px auto;
+  text-align: center;
+}
+
+.block {
+  text-align: center;
+  margin: 20px 0;
+}

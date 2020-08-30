@@ -1,0 +1,13 @@
+.title h2,
+p {
+  width: 80%;
+  margin: 0 auto;
+  text-align: center;
+}
+
+input,
+button,
+select {
+  display: block;
+  margin: 0 auto;
+}
